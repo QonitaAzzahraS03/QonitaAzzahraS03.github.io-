@@ -1,0 +1,125 @@
+---
+title: "Analisis Pengaruh Ekspor Lada Putih Ke Negara Vietnam Terhadap Nilai Tukar Rupiah Pada Tahun 2012-2021"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Qonita Azzahra Salsabila"
+date: 2022-08-10
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+![](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Mengutip dari laman djpen.kemendag.go.id ekspormerupakan kegiatan mengeluarkan barang dari daerah pabean Indonesia ke daerah pabean negara lain. Biasanya proses ekspor dimulai dari adanya penawaran dari suatu pihak yang disertai dengan persetujuan dari pihak lain melalui *sales contract process*, dalam hal ini adalah pihak Eksportir dan Importir. Proses pembayaran untuk pengiriman ini dapat melalui metode *Letter of Credit* (L/C) atau *non*-L/C, masing-masing metode memiliki risiko dan keuntungan tersendiri. Perdagangan internasional merupakan elemen penting dari proses globalisasi. Membuka perdagangan dengan berbagai negara di dunia akan memberikan keuntungan dan membawa pertumbuhan ekonomi dalam negeri, baik secara langsung berupa pengaruh yang ditimbulkan terhadap alokasi sumber daya dan efesiensi, maupun secara tidak lansung berupa naiknya tingkat investasi. Setiap bentuk hambatan dan proteksi merupakan sumber distorsi pada perdagangan internasional yang harus dihindari dan dihapuskan (laman jdih.kemendag.go.id).
+
+Indonesia juga ikut serta dalam kegiatan perdagangan internasional, dengan ikut serta dalam kegiatan ekspor-impor menunjukkan bahwa Indonesia juga ikut serta dalam kegiatan perdagangan internasional, dimana salah satu komoditi ekspor Indonesia yakni Lada Putih. Dimana lada putih merupakan salah satu jenis komoditas yang sangat diminati pasar tradisional. Rempah-rempah tersebut sering digunakan sebagai tambahan perasa makanan hingga untuk kesehatan. Menurut laporan Badan Pusat Statistik (BPS), nilai ekspor lada putih Indonesia mencapai US\$92,68 juta atau Rp1,44 triliun pada 2021 (kurs Rp15.583/US\$). Nilai itu kembali naik setelah mengalami penurunan di tahun sebelumnya. Kenaikannya tercatat mencapai 23,06% dibandingkan tahun 2020 yang sebanyak US\$75,31 juta. Meski demikian dari segi beratnya, volume ekspor lada putih menurun dari 24,78 ribu ton pada 2020 menjadi 18,53 ribu ton pada 2021. Vietnam merupakan negara tujuan ekspor lada putih RI dengan nilai terbesar sepanjang tahun lalu yakni US\$21,99 juta. Jumlah ini setara 23,72% dari total ekspor lada putih nasional. Secara tren, nilai ekspor lada putih Indonesia mengalami penurunan dalam lima tahun terakhir. Nilai ekspor tertinggi pada 2017 mencapai US\$133,47 juta, sedangkan terendah pada 2020 lalu (databoks.katadata.co.id)
+
+Dalam kegiatan ekspornya kurs atau nilai tukar rupiah negara Indonesia ke mata uang negara Vietnam selalu mengalami perubahan. Banyak faktor yang menyebabkan perubahan tersebut, antara lain tingkat inflasi, suku bunga, keadaan ekonomi dan politik, bahkan hutang negara. Ekspor Lada Putih merupakan salah satu yang menyebabkan perubahan kurs tersebut yang berkaitan dengan perdagangan internasional Indonesia.
+
+### Ruang lingkup
+
+Penelitian bertujuan untuk melihat pengaruh ekspor lada putih ke negara Vietnam terhadap nilai tukar rupiah pada tahun 2012-2021. Dimana dalam pengambilan data ini mengambil data dengan subjek nilai ekspor lada putih dari negara Indonesia ke negara Vietnam. Data di ambil dari badan pusat statistik selama sembilan tahun terakhir (2012-2021). Data ini kemudian dibandingkan dengan data nilai tukar rupiah.
+
+### Rumusan masalah
+
+Dari pendahuluan yang sudah dikemukakan oleh penulis maka dapat di dapatkan rumusan masalah sebagai berikut :
+
+1.  Apakah ekspor lada putih terhadap negara Vietnam berpengaruh terhadap nilai tukar rupiah?
+
+### Tujuan dan manfaat penelitian
+
+Tujuan darin penelitian ini adalah untuk mengetahui seberapa besar pengaruh ekspor lada putih ke negara Vietnam terhadap nilai tukar Rupiah. Manfaat yang diharapkan dari hasil penelitian ini adalah mengetahui seberapa besar pengaruh ekspor lada putih ke negara Vietnam terhadap niali tukar Rupiah sebagai gambaran dan acuan untuk menetapkan kebijakan ataupun keputusan terhadap ekspor lada putih ke negara Vietnam.
+
+## Studi pustaka
+
+Jurnal berjudul *"Analisis Pengaruh Ekspor Lada Putih Ke Negara Vietnam Terhadap Nilai Tukar Rupiah Pada Tahun 2012-2021*" ini dibuat dengan merujuk pada fakta tersedianya sumber daya alam mumpuni di Indonesia, pada komoditi lada putih sebagai aspek utama dalam ekspor sektor perkebunan dan bagaimana dampak bagi nilai tukar rupiah.
+
+Menurut data Badan Pusat Statistik (2012-2021) ditemukan bahwa ekspor tertinggi lada putih pada tahun 2012 dengan nilai ekspor USD 34119,302 ribu dan ekspor lada putih terendah pada tahun 2021 dengan nilai ekspor USD 2241,425 ribu hal ini disebabkan karena dampak covid-19 yang mengakibatkan batasan terhadap eksportir dalam melakukan ekspor.
+
+Amir M. S (2004:1), ekspor adalah upaya melakukan penjualan komoditas di Indonesia kepada negara lain, dengan mengharapkan pembayaran dalam valuta asing, serta melakukan komoditi dengan memakaibahasa asing. Untuk itulah, dalam menanggapi bagaimana dampak nilai ekspor lada putih ke Vietnam terhadap nilai tukar rupiah Jurnal ini dibuat.
+
+## Metode penelitian
+
+### **Data Nilai Ekspor Lada Putih Ke Negara Vietnam dan Nilai Tukar Rupiah**
+
+| Tahun | Nilai Ekspor (VDN) | Nilai Tukar (IDR) |
+|-------|--------------------|-------------------|
+| 2012  | 384660543,29       | 247927394,77      |
+| 2013  | 475890912,58       | 306728611         |
+| 2014  | 648383995,73       | 417906535,2       |
+| 2015  | 1226455136,04      | 790493935,47      |
+| 2016  | 1329889257,34      | 857160903,71      |
+| 2017  | 1158673270         | 746806113,17      |
+| 2018  | 1008023716         | 649707120,05      |
+| 2019  | 762476473          | 491443192,77      |
+| 2020  | 419734911          | 270534071,65      |
+| 2021  | 515523130          | 332272984,05      |
+
+**Sumber data Badan pusat statistik (FOB : USD 000)**
+
+```{r}
+library(readxl)
+azra<-read_excel("latihan.xlsx")
+reg<-lm(Y~X,data=azra)
+plot(azra$Y,azra$X,xlab="Nilai Ekspor",ylab="Nilai Tukar")
+```
+
+```{r}
+library(readxl)
+azra<-read_excel("latihan.xlsx")
+reg<-lm(Y~X,data=azra)
+azra$u<-resid(reg)
+plot(azra$Y,azra$u,xlab="Nilai Tukar",ylab="Eror")
+```
+
+### Metode analisis
+
+Teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Teknik analisis kuantitatif merupakan analisis yang dilakukan dengan perhitungan angka-angka yang faktor yang mempengaruhi indeks nilai tukar rupiah terhadap nilai ekspor lada putih ke Vietnam . Metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 1 variabel independen. Penelitian ini bermaksud mencari hubungan antara nilai tukar dan nilai ekspor. Spesifikasi yang dilakukan adalah:
+
+$$
+y_{t}=\beta_0 + \beta_1 x_t+\mu_t
+$$ Dimana: Yt adalah nilai tukar Dong (Vietnam) terhadap mata uang negara lain., β0 adalah koefisien konstanta; β1 adalah parameter; Xt adalah nilai ekspor dan μi adalah error term
+
+## Pembahasan
+
+## Pembahasan masalah
+
+| Variabel  | Coeficient | Std. Error | t.value    | Prob           |
+|-----------|------------|------------|------------|----------------|
+| Intercept | -3.296e-03 | 1.985e-03  | -1.661e+00 | 0.135          |
+| X         | 6.445e-01  | 2.300e-12  | 2.803e+11  | \<2e-16 \*\*\* |
+
+| R-Squared          | 1         |
+|--------------------|-----------|
+| Adjusted R-Squared | 1         |
+| F-Statistic        | 7.856e+22 |
+| Prob(F-statistic)  | \<2.2e-16 |
+
+Ekspor lada putih berpengaruh terhadap nilai tukar. Di tunjukkan dengan di lihat dari probabilitas X ( Nilai Ekspor) yang signifikan. Dimana nilai ekspor sering menjadi faktor yang dapat mendorong naik dan turunnya kurs mata uang suatu negara. Nilai koefisien ekspor sebesar 6.445e-01 yang berarti kenaikan perubahan nilai ekspor erpengaaruh terhadap nilai kurs rupiah terhadap VDN. Dengan hasil ini maka dapat di simpulkan bahwa pendapatan ekspor berpengaruh positif terhadap nilai tukar rupiah.
+
+### Analisis masalah
+
+Hasil regresinya adalah
+
+```{r}
+library(readxl)
+azra<-read_excel("latihan.xlsx")
+reg<-lm(Y~X,data=azra)
+summary(reg)
+```
+
+## Kesimpulan
+
+Berdasarkan data hasil analisis kuantitatif yang telah dilakukan, setelah diamati ekspor lada putih ke negara Vietnam berpengaruh positif terhadap nilai tukar rupiah dan lada merupakan salah satu komoditas rempah utama yang memiliki volume ekspor terbesar di Indonesia. Oleh sebab itu apabila ekspor lada putih ke negara Vietnam berpengaruh positif terhadap nilai tukar rupiah maka mempengaruhi nilai kurs rupiah terhadap VDN.
+
+## Referensi
+
+*Badan Pusat Statistik*. (n.d.). Retrieved January 19, 2023, from <https://www.bps.go.id/statictable/2019/02/25/2023/ekspor-lada-putih-menurut-negara-tujuan-utama-2012-2021.html> *Kemendag Perkuat Ekspor Lada Putih Muntok ke Pasar Global---Media Perkebunan*. (n.d.). Retrieved January 19, 2023, from <https://mediaperkebunan.id/kemendag-perkuat-ekspor-lada-putih-muntok-ke-pasar-global/> *Kemendag Perkuat Ekspor Lada Putih Muntok ke Pasar Global---Media Perkebunan*. (n.d.). Retrieved January 19, 2023, from <https://mediaperkebunan.id/kemendag-perkuat-ekspor-lada-putih-muntok-ke-pasar-global/> *Perdagangan Internasional: Pengertian, Tujuan, Manfaat dan Contohnya---Gramedia Literasi*. (n.d.). Retrieved January 19, 2023, from <https://www.gramedia.com/literasi/perdagangan-internasional/>
+
+*Naik Lagi, Nilai Ekspor Lada Putih RI Capai US\$92,68 Juta pada 2021*. (n.d.). Retrieved January 19, 2023, from <https://databoks.katadata.co.id/datapublish/2022/10/26/naik-lagi-nilai-ekspor-lada-putih-ri-capai-us9268-juta-pada-2021> *MATA UANG VIETNAM KE USD - Penelusuran Google*. (n.d.). Retrieved January 19, 2023, from <https://www.google.com/search?q=MATA+UANG+VIETNAM+KE+USD&oq=mata+uang+vietnam&aqs=chrome.0.69i59j69i57j0i512l8.9406j1j7&sourceid=chrome&ie=UTF-8> *mata uang rupiah ke usd---Penelusuran Google*. (n.d.). Retrieved January 19, 2023, from <https://www.google.com/search?q=mata+uang+rupiah+ke+usd&sxsrf=AJOqlzUnMFkVJ5QgEhHwRh9BcFkEqb8p2w%3A1674053388997&ei=DAfIY7HFPJWC8QOk_bFY&oq=MATA+UANG+ru+KE+USD&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgYIABAHEB4yBggAEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeMggIABAIEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeMggIABAIEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeOgoIABBHENYEELADSgQIQRgASgQIRhgAUIQKWKYMYOYaaAJwAXgAgAG2AogBjAOSAQUxLjMtMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp>
